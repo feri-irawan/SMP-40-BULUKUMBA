@@ -21,7 +21,7 @@
 * Cari file/gambar yang ingin di upload.
 * Setelah itu tunggu proses upload selesai.
 
->__Catatan:__ pastikan kamu telah memberi nama file tersebut.
+_*Catatan:* pastikan kamu telah memberi nama file tersebut._
 
 ## Mengganti Nama File
 * Klik ikon `titik tiga` di samping file
