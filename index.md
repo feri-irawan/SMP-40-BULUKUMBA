@@ -30,7 +30,7 @@ _*Catatan:* pastikan kamu telah memberi nama file tersebut._
 * Terakhir klik `ubah nama` dan selesai.
 
 ## Berbagi Folder
-* Cari folder yang ingin dibagian. (Dalam kasus ini cari folder dengan nama lengkap mu).
+* Cari folder yang ingin dibagikan. (Dalam kasus ini cari folder dengan nama lengkap mu).
 * Klik ikon `titik tiga` yang ada di samping folder.
 * Lalu klik `folder berbagi`.
 * Lalu pilih kontak kontak tujuan atau masukan email tujuan di bagian atas.
