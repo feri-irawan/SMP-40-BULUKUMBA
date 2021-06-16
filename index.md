@@ -2,7 +2,7 @@
 > Panduan ini di khususkan untuk siswa pengguna aplikasi MEGA di SMPN 40 BULUKUMBA
 
 ## Menambah Kontak
-* Klik ikon <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24"><path d="M24 6h-24v-4h24v4zm0 4h-24v4h24v-4zm0 8h-24v4h24v-4z"/></svg> yang ada di suduk kiri atas.
+* Klik ikon <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24"><path d="M24 6h-24v-4h24v4zm0 4h-24v4h24v-4zm0 8h-24v4h24v-4z"/></svg> yang ada di sudut kiri atas.
 * Klik `Kontak`
 * Klik ikon `titik tiga` di sudut kanan atas.
 * Pilih `Tambahkan kontak`
