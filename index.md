@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Panduan Penggunan MEGA
 
-You can use the [editor on GitHub](https://github.com/feri-irawan/SMP-40-BULUKUMBA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Berikut ini panduan pengguaan aplikasi MEGA.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Cara Menambah Kontak
+ * buka aplikasi MEGA
+ * kemudian klik ikon <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"><path d="M24 6h-24v-4h24v4zm0 4h-24v4h24v-4zm0 8h-24v4h24v-4z"/></svg>
+ * klik __"kontak"__
+ * setelah itu klik ikon <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMGMtNi42MjcgMC0xMiA1LjM3My0xMiAxMnM1LjM3MyAxMiAxMiAxMiAxMi01LjM3MyAxMi0xMi01LjM3My0xMi0xMi0xMnptNiAxM2gtNXY1aC0ydi01aC01di0yaDV2LTVoMnY1aDV2MnoiLz48L3N2Zz4=">
+ * lalu masukan email pengguna yang ingin di tambahkan contog `ceritaempatpuluh@gmail.com`
 
-### Markdown
+Seperti itulah cara menambah kontak di aplikasi MEGA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Mohon maaf jika panduan diatas kurang lengkap :smile:_
+Terima kasih.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/feri-irawan/SMP-40-BULUKUMBA/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+\- Feri Irawan
