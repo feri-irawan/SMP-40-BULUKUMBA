@@ -11,5 +11,5 @@ Berikut ini panduan pengguaan aplikasi MEGA.
 
 Seperti itulah cara menambah kontak di aplikasi MEGA
 
-_Mohon maaf jika panduan diatas kurang lengkap :smile:_
-Terima kasih.
+_Mohon maaf jika panduan diatas kurang lengkap  😃
+Terima kasih._
