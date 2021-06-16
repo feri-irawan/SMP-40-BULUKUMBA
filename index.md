@@ -15,7 +15,7 @@
 * Selanjutnya, buka folder tadi, kemudian klik icon <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6 13h-5v5h-2v-5h-5v-2h5v-5h2v5h5v2z"/></svg> dan buat folder baru dengan nama sesuai keinginan. Contoh: folder `UH`.
 
 ## Upload Tugas (Upload File)
-* Buka folder yang ingin digunakan untuk menyimpan, misal: folder `UH`.
+* Buka folder yang ingin digunakan untuk menyimpan tugas, misal: folder `UH`.
 * Kemudian, klik ikon <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6 13h-5v5h-2v-5h-5v-2h5v-5h2v5h5v2z"/></svg>
 * Klik `Dari perangkat`
 * Cari file/gambar yang ingin di upload.
