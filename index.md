@@ -4,7 +4,7 @@
 ## Menambah Kontak
 * Klik ikon <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24"><path d="M24 6h-24v-4h24v4zm0 4h-24v4h24v-4zm0 8h-24v4h24v-4z"/></svg> yang ada di sudut kiri atas.
 * Klik `Kontak`
-* Klik ikon <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 16 16"><path d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg> di sudut kanan atas.
+* Klik ikon <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 16 16"><path d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg> di sudut kanan atas.
 * Pilih `Tambahkan kontak`
 * Masukan email tujuan, contoh: `ceritaempatpuluh@gmail.com`
 * Lalu klik ikon <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24"><path d="M24 0l-6 22-8.129-7.239 7.802-8.234-10.458 7.227-7.215-1.754 24-12zm-15 16.668v7.332l3.258-4.431-3.258-2.901z"/></svg>
@@ -24,14 +24,14 @@
 _*Catatan:* pastikan kamu telah memberi nama file tersebut._
 
 ## Mengganti Nama File
-* Klik ikon `titik tiga` di samping file
+* Klik ikon <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 16 16"><path d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg> di samping file
 * Kemudian, klik `ubah nama` atau `rename`
 * Lalu silahkan ubah nama file sesuai keinginan
 * Terakhir klik `ubah nama` dan selesai.
 
 ## Berbagi Folder
 * Cari folder yang ingin dibagikan. (Dalam kasus ini cari folder dengan nama lengkap mu).
-* Klik ikon `titik tiga` yang ada di samping folder.
+* Klik ikon <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 16 16"><path d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg> yang ada di samping folder.
 * Lalu klik `folder berbagi`.
 * Lalu pilih kontak kontak tujuan atau masukan email tujuan di bagian atas.
 * Terakhir klik kirim <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24"><path d="M24 0l-6 22-8.129-7.239 7.802-8.234-10.458 7.227-7.215-1.754 24-12zm-15 16.668v7.332l3.258-4.431-3.258-2.901z"/></svg>
