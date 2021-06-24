@@ -1,5 +1,5 @@
 | # | NAMA SISWA | NAMA ORANG TUA | PEKERJAAN ORANG TUA | ALAMAT | TELEPON |
-|---|---|---|---|---|---|
+|---|------------------------------------|---|---|---|---|
 | 1 | RATU INKA NUR TIARA | ANDI GAU | PENGANGGURAN | MATTOANGING | +6285341651693 |
 | 2 | NIRMALA | AMBO | - | - |
 | 3 | NURMAYASARI | HAMSAH | - | - |
