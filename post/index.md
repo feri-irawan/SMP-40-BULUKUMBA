@@ -1,4 +1,6 @@
-<sub>
+<style>
+.table {font-size:10px}
+</style>
 
 | # | NAMA SISWA | NAMA ORANG TUA | PEKERJAAN ORANG TUA | ALAMAT | TELEPON |
 |---|---|---|---|---|---|
@@ -30,4 +32,3 @@
 | 26 | RESKY FAJAR ANUGRAH | USMAN | - | - |
 | 27 | AFDAL JIHADUR | SYAMSIDAR | IRT | - | +6285397258696 |
 
-</sub>
