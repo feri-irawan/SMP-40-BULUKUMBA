@@ -68,6 +68,7 @@ Nah, seperti itulah panduan penggunaan aplikasi MEGA
 </details>
 
 
+
 <hr>
 
 _Mohon maaf jika ada kekurangan, terima kasih_
