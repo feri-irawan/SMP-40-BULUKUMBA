@@ -13,11 +13,13 @@ Berikut Daftar Grup Pemebelajaran untuk Kelas IX B
 | 8 | B.INGGRIS | - | - | `nonaktif` |
 
 Kirim pesan ke penulis jika ada masukan.
+
 [![Saweria](https://img.shields.io/badge/Kirim%20Pesan-green?style=for-the-badge)](https://wa.me/+6285657166206?text=Assalamu'alaikum)
 
 
-
-
+## Baca Juga :smile:
+<details>
+<summary>Panduan Mengumpul Tugas di MEGA</summary>
 # Panduan Mengumpul Tugas di MEGA
 > Panduan ini di khususkan untuk siswa pengguna aplikasi MEGA di SMPN 40 BULUKUMBA
 
@@ -58,5 +60,6 @@ _*Catatan:* pastikan kamu telah memberi nama file tersebut._
 
 
 Nah, seperti itulah panduan penggunaan aplikasi MEGA
+</details>
 
 _Mohon maaf jika ada kekurangan, terima kasih_
