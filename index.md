@@ -21,6 +21,7 @@ Kirim pesan ke penulis jika ada masukan.
 ## Baca Juga :smile:
 <details>
 <summary>Panduan Mengumpul Tugas di MEGA</summary>
+
 # Panduan Mengumpul Tugas di MEGA
 > Panduan ini di khususkan untuk siswa pengguna aplikasi MEGA di SMPN 40 BULUKUMBA
 
@@ -61,6 +62,7 @@ _*Catatan:* pastikan kamu telah memberi nama file tersebut._
 
 
 Nah, seperti itulah panduan penggunaan aplikasi MEGA
+
 </details>
 
 
