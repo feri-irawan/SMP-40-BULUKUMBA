@@ -1,3 +1,23 @@
+# Daftar Grup Pemebelajaran Kelas IX (9) B
+
+Berikut Daftar Grup Pemebelajaran untuk Kelas IX B
+| # | Nama | Wali | Link | Status |
+| --- | --- | :-: | :-: | :-: |
+| 1 | PABP | - | [Link](https://chat.whatsapp.com/Kg2wTZ2UsiEAYBM5EM9Vgh) | `aktif` |
+| 2 | MTK | - | [Link](https://chat.whatsapp.com/LxTYxzYZ7FY310hZjQgyV7) | `aktif` |
+| 3 | IPA | - | [Link](https://chat.whatsapp.com/HrmMGIiAQyYDWa9EqkQbmm) | `aktif` |
+| 4 | B.INDONESIA | - | [Link](https://chat.whatsapp.com/Dxx6eXO1I5mDIWlutaW4tL) | `aktif` |
+| 5 | PPKN | - | [Link](https://chat.whatsapp.com/HCUSHPXhy4S4Un1Nt9Wvx3) | `aktif` |
+| 6 | PRAKARYA | - | [Link](https://chat.whatsapp.com/Jbs6qgZxp3c1IglwJ1FIT0) | `aktif` |
+| 7 | SENI BUDAYA | - | [Link](https://chat.whatsapp.com/FabcxUGCMuA4WwHCe539Ib) | `aktif` |
+| 8 | B.INGGRIS | - | - | `nonaktif` |
+
+Kirim pesan ke penulis jika ada masukan.
+[![Saweria](https://img.shields.io/badge/Kirim%20Pesan-green?style=for-the-badge)](https://wa.me/+6285657166206?text=Assalamu'alaikum)
+
+
+
+
 # Panduan Mengumpul Tugas di MEGA
 > Panduan ini di khususkan untuk siswa pengguna aplikasi MEGA di SMPN 40 BULUKUMBA
 
