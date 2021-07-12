@@ -1,6 +1,7 @@
 # Daftar Grup Pemebelajaran Kelas IX (9) B
 
 Berikut Daftar Grup Pemebelajaran untuk Kelas IX B
+
 | # | Nama | Wali | Link | Status |
 | --- | --- | :-: | :-: | :-: |
 | 1 | PABP | - | [Link](https://chat.whatsapp.com/Kg2wTZ2UsiEAYBM5EM9Vgh) | `aktif` |
