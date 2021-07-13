@@ -9,7 +9,7 @@ app.use(expressLayouts);
 
 
 app.get('/', (req, res) => {
-  res.render('app/index')
+  res.render('./app/index')
 })
 
 app.listen(port, () => {
