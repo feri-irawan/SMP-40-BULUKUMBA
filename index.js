@@ -1,15 +1,13 @@
 const express = require('express')
-const expressLayouts = require('express-ejs-layouts')
 
 const app = express()
 const port = 3000
 
-app.set('view engine', 'ejs');
-app.use(expressLayouts);
-
 
 app.get('/', (req, res) => {
-  res.render('index')
+  res.sendFile('views/index.html', {
+    root: __dirname
+  })
 })
 
 app.listen(port, () => {
