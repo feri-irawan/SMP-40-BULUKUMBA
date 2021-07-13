@@ -4,8 +4,7 @@
   "description": "Website SMP 40 BULUKUMBA (unofficial)",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
-    "express-ejs-layouts": "^2.5.0"
+    "express": "^4.17.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
