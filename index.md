@@ -19,7 +19,7 @@ Kirim pesan ke penulis jika ada masukan.
 
 
 ## Baca Juga :smile:
-<details>
+<details markdown="1">
 <summary>Panduan Mengumpul Tugas di MEGA</summary>
 <p>
 
